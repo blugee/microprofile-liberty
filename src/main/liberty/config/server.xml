@@ -15,4 +15,11 @@
                 id="defaultHttpEndpoint"/>
 
   <webApplication location="microprofile-demo.war" contextRoot="/"/>
+  
+  <cors domain="/user"
+        allowedOrigins="*"
+        allowedMethods="GET"
+        allowCredentials="true"
+        exposeHeaders="MyHeader"/>
+  
 </server>
