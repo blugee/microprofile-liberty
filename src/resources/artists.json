@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "name" : "foo",
+        "followers": "12313K",
+        "genres": "Prog Rock, Post-Grunge",
+        "Bio" : "http://johnmayer.com/",
+        "popularity": "1231K",
+        "albums" : [
+            {
+                "title" : "album_one",
+                "artist" : "foo",
+                "ntracks" : 12
+            },
+            {
+                "title" : "album_two",
+                "artist" : "foo",
+                "ntracks" : 15
+            }
+        ]
+    }, 
+    {
+        "id" : "2",
+        "name" : "bar",
+        "followers": "12313K",
+        "genres": "Prog Rock, Post-Grunge",
+        "Bio" : "http://johnmayer.com/",
+        "popularity": "1231K",
+        "albums" : [
+            {
+                "title" : "foo walks into a bar",
+                "artist" : "bar",
+                "ntracks" : 12
+            }
+        ]
+    }, 
+    {
+        "id": "3",
+        "name" : "dj",
+        "followers": "12313K",
+        "genres": "Prog Rock, Post-Grunge",
+        "Bio" : "http://johnmayer.com/",
+        "popularity": "1231K",
+        "albums" : [
+        ]
+    },
+    {
+        "id": "4",
+        "name" : "dj",
+        "followers": "12313K",
+        "genres": "Prog Rock, Post-Grunge",
+        "Bio" : "http://johnmayer.com/",
+        "popularity": "1231K",
+        "albums" : [
+        ]
+    },
+    {
+        "id": "5",
+        "name" : "dj",
+        "followers": "12313K",
+        "genres": "Prog Rock, Post-Grunge",
+        "Bio" : "http://johnmayer.com/",
+        "popularity": "1231K",
+        "albums" : [
+        ]
+    },
+    {
+        "id": "6",
+        "name" : "dj",
+        "followers": "12313K",
+        "genres": "Prog Rock, Post-Grunge",
+        "Bio" : "http://johnmayer.com/",
+        "popularity": "1231K",
+        "albums" : [
+        ]
+    }
+]
