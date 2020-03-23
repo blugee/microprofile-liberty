@@ -4,7 +4,6 @@
         "name" : "foo",
         "followers": "12313K",
         "genres": "Prog Rock, Post-Grunge",
-        "Bio" : "http://johnmayer.com/",
         "popularity": "1231K",
         "albums" : [
             {
@@ -24,7 +23,6 @@
         "name" : "bar",
         "followers": "12313K",
         "genres": "Prog Rock, Post-Grunge",
-        "Bio" : "http://johnmayer.com/",
         "popularity": "1231K",
         "albums" : [
             {
@@ -39,7 +37,6 @@
         "name" : "dj",
         "followers": "12313K",
         "genres": "Prog Rock, Post-Grunge",
-        "Bio" : "http://johnmayer.com/",
         "popularity": "1231K",
         "albums" : [
         ]
@@ -49,7 +46,6 @@
         "name" : "dj",
         "followers": "12313K",
         "genres": "Prog Rock, Post-Grunge",
-        "Bio" : "http://johnmayer.com/",
         "popularity": "1231K",
         "albums" : [
         ]
@@ -59,7 +55,6 @@
         "name" : "dj",
         "followers": "12313K",
         "genres": "Prog Rock, Post-Grunge",
-        "Bio" : "http://johnmayer.com/",
         "popularity": "1231K",
         "albums" : [
         ]
@@ -69,7 +64,6 @@
         "name" : "dj",
         "followers": "12313K",
         "genres": "Prog Rock, Post-Grunge",
-        "Bio" : "http://johnmayer.com/",
         "popularity": "1231K",
         "albums" : [
         ]
